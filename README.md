@@ -14,7 +14,7 @@ We are pleased to present our latest research paper proposing a large-scale data
 The 6 types of model-based distortions we used to degrade the reference DDH include position compression, UV compression, texture sub-sampling, texture compression, color noise, and geometry noise and the 2 types of motion-based distortions include skeleton binding error and motion range unnaturalness. We obtained a total of 800 distorted DDH.
 
 <p align="center">
-  <img src="https://github.com/zzc-1998/DDH-QA/blob/main/motion.png" />
+  <img src="https://github.com/zzc-1998/DDH-QA/blob/main/motion.png" width = 500 />
 </p>
 
 
