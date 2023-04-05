@@ -20,15 +20,19 @@ The 6 types of model-based distortions we used to degrade the reference DDH incl
 
 A well-controlled subjective experiment was conducted to collect mean opinion scores (MOS) for the distorted DDH. We obtained the largest subject-rate quality assessment database for dynamic digital human(DDH-QA).
 
+
+## Download Link
+You can load the database via Onedrive or Baiduyunpan.
+
+
 ## Related Work☕☕☕
 **Our Digital Human Databases** 🌟🌟🌟
 
 |                   Related Works                    |                            Links                             |
 | :------------------------------------------------: | :----------------------------------------------------------: |
 |  Digital Human Heads Quality Assessment Database   | [DHHQA]([zzc-1998/DHHQA: Official access to 'Perceptual Quality Assessment for Digital Human Heads' (github.com)](https://github.com/zzc-1998/DHHQA)) |
-| Dynamic Digital Humans Quality Assessment Database |                          [DDH-QA]()                          |
 
-**If you have any problems and ideas, welcome to send to aokzyj@gmail.com.  ** ⭐⭐⭐
+**If you have any problems and ideas, welcome to send to zzc1998@sjtu.edu.cn/aokzyj@gmail.com.  ** ⭐⭐⭐
 
 **We will send back a e-mail as soon as possible !!!**
 
