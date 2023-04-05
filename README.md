@@ -3,8 +3,17 @@
 We are pleased to present our latest research paper proposing a large-scale database for dynamic digital human (DDH) quality assessment. Our database includes a total of 800 DDH videos, including manually degraded versions of ten movements of one male and one female with eight (six model-based and two motion-based) types of distortions. In addition, model-based distortion OBJ models and corresponding UV maps as well as original OBJ models and corresponding UV maps (used for motion-based distortion) are provided.
 
 <p align="center">
-  <img src="https://github.com/zzc-1998/DHHQA/blob/main/sample.jpg" />
+  <img src="https://github.com/zzc-1998/DDH-QA/blob/main/modelbased.jpg" />
 </p>
+
+<p align="center">
+  <img src="https://github.com/zzc-1998/DDH-QA/blob/main/motionbased.jpg" />
+</p>
+
+<p align="center">
+  <img src="https://github.com/zzc-1998/DDH-QA/blob/main/motion.png" />
+</p>
+
 
 ## Experiment Design
 
