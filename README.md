@@ -4,8 +4,6 @@ We are pleased to present our latest research paper proposing a large-scale data
 
 <p align="center">
   <img src="https://github.com/zzc-1998/DDH-QA/blob/main/modelbased.jpg" width="30%" />
-</p>
-<p align="center">
   <img src="https://github.com/zzc-1998/DDH-QA/blob/main/motionbased.jpg" width="30%" />
 </p>
 
