@@ -10,9 +10,6 @@ We are pleased to present our latest research paper proposing a large-scale data
   <img src="https://github.com/zzc-1998/DDH-QA/blob/main/motionbased.jpg" />
 </p>
 
-<p align="center">
-  <img src="https://github.com/zzc-1998/DDH-QA/blob/main/motion.png" />
-</p>
 
 
 ## Experiment Design
@@ -20,8 +17,9 @@ We are pleased to present our latest research paper proposing a large-scale data
 The 6 types of model-based distortions we used to degrade the reference DDH include position compression, UV compression, texture sub-sampling, texture compression, color noise, and geometry noise and the 2 types of motion-based distortions include skeleton binding error and motion range unnaturalness. We obtained a total of 800 distorted DDH.
 
 <p align="center">
-  <img src="https://github.com/zzc-1998/DHHQA/blob/main/sample.jpg" />
+  <img src="https://github.com/zzc-1998/DDH-QA/blob/main/motion.png" />
 </p>
+
 
 A well-controlled subjective experiment was conducted to collect mean opinion scores (MOS) for the distorted DDH. We obtained the largest subject-rate quality assessment database for dynamic digital human(DDH-QA).
 
