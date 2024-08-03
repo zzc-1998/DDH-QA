@@ -24,7 +24,7 @@ A well-controlled subjective experiment was conducted to collect mean opinion sc
 ## Download Link
 You can load the database (only distorted DDHs) via [Onedrive](https://1drv.ms/u/s!AjaDoj_-yWggviat_dKNtFjsxKka?e=ugbcnZ) or [Baiduyunpan](https://pan.baidu.com/s/1Sv22olPL5y3slSSfjFLi6Q?pwd=dhqa) (Extraction code：dhqa).
 
-(NEW) We provide the reference DDHs in [Baiduyunpan] (https://pan.baidu.com/s/12ooyG020oZsUN0WmpENmfg)(Extraction code：dhqa).
+(NEW) We provide the reference DDHs in [Baiduyunpan](https://pan.baidu.com/s/12ooyG020oZsUN0WmpENmfg)(Extraction code：dhqa).
 
 
 
